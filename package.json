@@ -1,6 +1,6 @@
 {
-  "name": "ecosystem",
-  "author": "Optimism PBC",
+  "name": "erf40system",
+  "author": "kansas1295",
   "license": "MIT",
   "scripts": {
     "clean": "pnpm recursive run clean",
@@ -16,5 +16,16 @@
     "eslint-plugin-simple-import-sort": "^10.0.0",
     "eslint-plugin-storybook": "^0.6.15",
     "nx": "17.1.3"
-  }
+  },
+  "version": "1.0.0",
+  "main": ".eslintrc.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": "git+https://github.com/Kalianda-store/ecosystem.git",
+  "bugs": {
+    "url": "https://github.com/Kalianda-store/ecosystem/issues"
+  },
+  "homepage": "https://github.com/Kalianda-store/ecosystem#readme",
+  "description": "start.yml"
 }
